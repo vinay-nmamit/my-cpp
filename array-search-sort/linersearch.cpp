@@ -1,3 +1,5 @@
+/* If the key element is equal to the array index then return index */
+
 #include <iostream>
 using namespace std;
 
